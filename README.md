@@ -33,7 +33,7 @@ By automating image classification, ForestWatch acts as a **watchdog for the pla
 ## 🧠 Model & Dataset
 
 - **Model**: Convolutional Neural Network (CNN) built using TensorFlow/Keras (or PyTorch).  
-- **Dataset**: [*Trees in Satellite Imagery*](https://www.kaggle.com/datasets) (from Kaggle).  
+- **Dataset**: https://www.kaggle.com/datasets/mcagriaksoy/trees-in-satellite-imagery (from Kaggle).  
 - **Classes**: Forest, Urban, Water, Cleared Land, Agriculture, etc.  
 
 The model learns to distinguish these categories based on textures, colors, and shapes visible in satellite tiles.
