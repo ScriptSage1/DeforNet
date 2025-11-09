@@ -1,7 +1,8 @@
 # DeforNet
-
+```
 DeforNet is a lightweight convolutional neural network for satellite tile classification.  
 Current scope: binary Trees vs Notrees detection to surface potential deforestation signals.  
+```
 ---
 
 ## Project Status
@@ -162,8 +163,9 @@ Run tests & lint (to be added) before submitting.
 ---
 
 ## FAQ
-
+```
 Q: Why does validation accuracy jump around?  
 A: Small validation set + overfitting after early epochs + stochastic training. Consider larger val split or stabilizing (EMA, lower LR, reduced augmentation).
+```
 ---
 
