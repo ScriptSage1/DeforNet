@@ -2,8 +2,6 @@
 
 DeforNet is a lightweight convolutional neural network for satellite tile classification.  
 Current scope: binary Trees vs Notrees detection to surface potential deforestation signals.  
-Future scope: multi–land-cover classification and temporal change detection.
-
 ---
 
 ## Project Status
@@ -36,8 +34,6 @@ DeforNet/
       ├─ Trees/
       └─ Notrees/
 ```
-
-`data/` and `outputs/` should be git‑ignored.
 
 ---
 
